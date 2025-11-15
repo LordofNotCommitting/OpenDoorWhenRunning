@@ -1,0 +1,3 @@
+This mod lets you interact with doors while running.
+
+Are you telling me that 5AP enemies (tech 10 endgame on many human faction as of 0.9.8 stable) can open doors and go around while you can't even open doors while you are running? That doesn't sound very fair....
